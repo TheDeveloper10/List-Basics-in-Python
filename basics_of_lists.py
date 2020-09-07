@@ -1,18 +1,17 @@
 '''
-If you are a developer who wants to learn Python and has learned another language before
-than this script will help you a lot!
+If you are a developer who wants to learn Python and has learned another language before than 
+this script will help you a lot!
 
-The aim of this script is to show in the shortest way possible the basics of lists in Python.
-It shows all of their functionalities. It also aims to make the learning processes easier.
+The purpose of this script is to show you the basics of Python lists in the shortest poissible way. 
+It shows all of their functionalities. It also aims to make the learning process easier.
 
-If you're going to use this script to learn the lists in Python I suggest you:
-1. Compile it and look in the result
-2. Read it line by line
-3. Clone it and experiment by yourself
+If you're going to use this script to learn Python lists I suggest you:
+	1. Compile it and look in the result
+	2. Read the code line by line and compare it to the result
+	3. Clone the code and experiment by yourself
 
 
-Note: The list here consists of strings and most of the methods
-for lists work for both numeric/string lists.
+Note: Most of the methods for lists work for both numeric/string type of lists!
 '''
 
 # Creating a list
