@@ -18,8 +18,6 @@ If you're going to use this script to learn the lists in Python I suggest you:<b
 2. Read it line by line<br>
 3. Clone it and experiment by yourself<br>
 <br><br>
-Note: The list here consists of strings and most of the methods 
-for lists work for both numeric/string lists.
 
 ## ▁▂▅▆▇ 📲 Social Media and Contacts 📲 ▇▆▅▂▁
 🚀 GitHub:     https://github.com/TheDeveloper10<br>
