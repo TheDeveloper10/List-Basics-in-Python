@@ -10,13 +10,13 @@ python basics_of_lists.py
 If you are a developer who wants to learn Python and has learned another language before 
 than this script will help you a lot!
 <br><br>
-The aim of this script is to show in the shortest way possible the basics of lists in Python. 
-It shows all of their functionalities. It also aims to make the learning processes easier.
+The purpose of this script is to show you the basics of Python lists in the shortest poissible way. 
+It shows all of their functionalities. It also aims to make the learning process easier.
 <br><br>
-If you're going to use this script to learn the lists in Python I suggest you:<br>
+If you're going to use this script to learn Python lists I suggest you:<br>
 1. Compile it and look in the result<br>
-2. Read it line by line<br>
-3. Clone it and experiment by yourself<br>
+2. Read the code line by line and compare it to the result<br>
+3. Clone the code and experiment by yourself<br>
 <br><br>
 
 ## ▁▂▅▆▇ 📲 Social Media and Contacts 📲 ▇▆▅▂▁
